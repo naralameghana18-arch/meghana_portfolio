@@ -28,9 +28,9 @@ link:https://github.com/naralameghana18-arch/meghana_portfolio/commit/4a2453a566
 ---
 
 ## Key Learnings
-Data cleaning techniques
-Data visualization
-Dashboard building
+-Data cleaning techniques
+-Data visualization
+-Dashboard building
 
 --
 ## Final Presentation
